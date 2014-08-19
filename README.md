@@ -1,7 +1,7 @@
 PQuaternion
 ===========
 
-Simple quaternion class for processing
+Simple quaternion class for processing. To use, just copy Quaternion class to your project.
 
 
 #Usage Example
